@@ -1,7 +1,7 @@
-ECharts 打造个人线上简历
+ECharts 个人线上简历
 ===
 
-> 配合攻略，食用更佳：[攻略](https://github.com/LiangJunrong/document-library/blob/master/JavaScript-library/ECharts/CurriculumVitae.md)
+> [在线地址](https://songxuy.github.io/myresume/dist/#/)
 
 # 使用方法
 
