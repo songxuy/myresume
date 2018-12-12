@@ -35,7 +35,7 @@ export default {
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
   background: #18202d;
 }
-.part-sevev-responsive {
+.part-seven-responsive {
   width: 100%;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
