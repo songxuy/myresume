@@ -4,7 +4,7 @@
     <p class="text-small"><span class="font-bold">期望职位：</span>前端工程师</p>
     <p class="text-small"><span class="font-bold">工作技能：</span>Vue+node</p>
     <p class="text-small"><span class="font-bold">目标城市：</span>成都、北京、深圳、杭州、上海</p>
-    <p class="text-small"><span class="font-bold">期望薪资：</span>08K - 15K</p>
+    <p class="text-small"><span class="font-bold">期望薪资：</span>暂无</p>
     <p class="text-small"><span class="font-bold">入职时间：</span>随时入职</p>
   </div>
 </template>

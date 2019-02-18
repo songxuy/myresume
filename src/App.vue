@@ -7,13 +7,13 @@
     </div> 
     <!-- 第一行 -->
     <el-row>
-      <el-col :xs="24" :sm="24" :md="5" :lg="6" :xl="5" class="part">
+      <el-col :xs="24" :sm="24" :md="6" :lg="7" :xl="6" class="part">
         <router-view name="PartOne"/>
       </el-col>
-      <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="8" class="part">
+      <el-col :xs="24" :sm="24" :md="10" :lg="10" :xl="6" class="part">
         <router-view name="PartTwo"/>
       </el-col>
-      <el-col :xs="24" :sm="24" :md="7" :lg="6" :xl="11" class="part">
+      <el-col :xs="24" :sm="24" :md="8" :lg="7" :xl="12" class="part">
         <router-view name="PartThree"/>
       </el-col>
     </el-row>
@@ -50,6 +50,7 @@ export default {
 
 <style>
 .app{
+  position: relative;
   width:100%;
   color:#fff;
 }
@@ -67,7 +68,7 @@ export default {
   animation: move 50s infinite;
 }
 .part {
-  padding: 20px;
+  padding: 5px;
 }
 /* .banner img {
   width: 100%;

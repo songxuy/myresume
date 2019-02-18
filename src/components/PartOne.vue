@@ -1,6 +1,6 @@
 <template>
   <div class="part-one">
-    <img class="part-one-image" :src="headImage" alt="头像">
+    <img class="part-one-image" :src="headImage" alt="头像" style="margin-bottom:10px;">
     <p>姓&emsp;&emsp;名：宋旭缘</p>
     <p>学&emsp;&emsp;历：本科</p>
     <p>工作年限：0.5 年</p>

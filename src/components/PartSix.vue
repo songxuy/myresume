@@ -29,13 +29,13 @@ export default {
 .part-six {
   width: 100%;
   height: 310px;
-  border: 40px solid transparent;
+  border: 20px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
   background: #18202d;
 }
 .part-six-responsive {
   width: 100%;
-  border: 40px solid transparent;
+  border: 20px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
   background: #18202d;
 }
