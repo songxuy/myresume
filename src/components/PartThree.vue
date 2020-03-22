@@ -54,7 +54,7 @@ export default {
           textStyle: {
             color: "#fff"
           },
-          data: [ "HTML5", "CSS3", "JS", "jQuery", "Vue", "Node", "微信小程序", "react", "其它"]
+          data: [ "HTML5", "CSS3", "JavaScript", "jQuery", "Vue", "Node", "react", "Other"]
         },
         // 注记显示手柄
         calculable: true,
@@ -70,10 +70,10 @@ export default {
               { value: 15, name: "CSS3" },
               { value: 25, name: "JavaScript" },
               { value: 20, name: "jQuery" },
-              { value: 25, name: "Vue" },
-              { value: 20, name: "Node" },
-              { value: 15, name: "react" },
-              { value: 15, name: "其他" }
+              { value: 30, name: "Vue" },
+              { value: 15, name: "Node" },
+              { value: 10, name: "react" },
+              { value: 20, name: "Other" }
             ]
           }
         ],

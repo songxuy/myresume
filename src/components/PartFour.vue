@@ -49,7 +49,7 @@ export default {
         xAxis: {
           show: false,
           type: "category",
-          data: ["Github 仓库：\n38", "发表 blog数：\n32", "掘金点赞量：\n208", "实战项目：\n26"],
+          data: ["Github 仓库：\n38", "发表 blog数：\n32", "实战项目：\n26"],
           axisLine: {
             lineStyle: {
               color: "#fff"
@@ -79,7 +79,7 @@ export default {
             // 图类型
             type: "bar",
             // 数据
-            data: [38, 32, 208, 26],
+            data: [38, 32, 28],
             // 文本
             label: {
               show: true,

@@ -64,7 +64,7 @@ export default {
           textStyle: {
             color: "#fff"
           },
-          subtext: "2018年期望",
+          /* subtext: "2018年期望", */
           subtextStyle: {
             color: "#fff"
           },

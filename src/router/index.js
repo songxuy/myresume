@@ -33,7 +33,7 @@ export default new Router({
         PartSix: PartSix,
         PartSeven: PartSeven
       }
-    },
+    }/* ,
     {
       path: '/PartOne',
       name: 'PartOne',
@@ -68,6 +68,6 @@ export default new Router({
       path: '/PartSeven',
       name: 'PartSeven',
       component: PartSeven
-    },
+    }, */
   ]
 })

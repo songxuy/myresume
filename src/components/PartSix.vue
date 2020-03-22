@@ -1,9 +1,9 @@
 <template>
   <div :class="partSix">
     <h3 class="text-center">编程技能</h3>
-    <p class="font-small"><span class="font-bold">前端：</span>HTML/HTML5、CSS/CSS3、JS/ES6、jQuery、Vue、小程序……</p>
-    <p class="font-small"><span class="font-bold">后端：</span>Node、PHP</p>
-    <p class="font-small"><span class="font-bold">其他：</span>MongoDB、MySQL、Sqlserver</p>
+    <p class="font-small"><span class="font-bold">前端：</span>HTML5、CSS/SASS/LESS、JS/TS、webPack、Vue、React……</p>
+    <p class="font-small"><span class="font-bold">后端：</span>NodeJS</p>
+    <p class="font-small"><span class="font-bold">其他：</span>MongoDB、MySQL</p>
   </div>
 </template>
 
