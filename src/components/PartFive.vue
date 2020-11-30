@@ -48,7 +48,6 @@ a:hover {
 }
 .part-five {
   width: 100%;
-  height: 310px;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
   background: #18202d;
