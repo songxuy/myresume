@@ -56,7 +56,7 @@ export default {
   color:#fff;
 }
 .banner {
-  background: url('./assets/img/bg.jpg');
+  background: url('~@/./assets/img/bg.jpg');
   background-size: cover;
   position: fixed;
   top: -20px;
