@@ -8,8 +8,8 @@
     <p class="text-small">工作内容：通过vue框架编写前端页面调接口 通过express+node编写活动接口 编写一些静态H5页面 开发过其他的官网…</p>
     <p class="text-small">项目成就：</p>
     <p class="text-small">&emsp;1. 开发的app活动，在活动期间共计有30万的参与量</p>
-    <p class="text-small">&emsp;2. 使用vue框架共计开发了20多个活动</p>
-    <p class="text-small">&emsp;3. 维护公司官网  以及开发一些静态H5页面</p>
+    <p class="text-small">&emsp;2. 使用vue框架共计开发了10多个活动</p>
+    <p class="text-small">&emsp;3. 维护公司官网以及开发一些静态H5页面</p>
     <p style="margin-top:10px;">
       <a href="javascript:void(0)">广州多益网络有限公司</a>
       <span class="text-small">| 2019/05- 2020/03</span>
@@ -50,12 +50,14 @@ a:hover {
   width: 100%;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .part-five-responsive {
   width: 100%;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .text-center {

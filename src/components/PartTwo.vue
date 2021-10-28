@@ -26,10 +26,10 @@ export default {
       // 排行前五城市
       let myFirendCity = [
         { name: "成都", value: ["104.06", "30.67", "10"] },
-        { name: "深圳", value: ["114.07", "22.62", "8"] },
-        { name: "杭州", value: ["120.19", "30.26", "8"] },
-        { name: "北京", value: ["116.46", "39.92", "8"] },
-        { name: "上海", value: ["121.48", "31.22", "6"] },
+        { name: "深圳", value: ["114.07", "22.62", "4"] },
+        { name: "杭州", value: ["120.19", "30.26", "4"] },
+        { name: "北京", value: ["116.46", "39.92", "2"] },
+        { name: "上海", value: ["121.48", "31.22", "2"] },
         /* { name: "成都", value: 10 },
         { name: "深圳", value: 8 },
         { name: "杭州", value: 8 },
@@ -189,5 +189,6 @@ export default {
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
   background: #18202d;
+  opacity: 0.8;
 }
 </style>

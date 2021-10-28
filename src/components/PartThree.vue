@@ -54,7 +54,7 @@ export default {
           textStyle: {
             color: "#fff"
           },
-          data: [ "HTML5", "CSS3", "JavaScript", "jQuery", "Vue", "Node", "react", "Other"]
+          data: [ "HTML5", "CSS3", "JavaScript", "Canvas", "Vue", "React", "TS", "Other"]
         },
         // 注记显示手柄
         calculable: true,
@@ -66,13 +66,13 @@ export default {
             radius: [30, 110],
             roseType: "area",
             data: [
-              { value: 15, name: "HTML5" },
-              { value: 15, name: "CSS3" },
+              { value: 20, name: "HTML5" },
+              { value: 20, name: "CSS3" },
               { value: 25, name: "JavaScript" },
-              { value: 20, name: "jQuery" },
+              { value: 20, name: "Canvas" },
               { value: 30, name: "Vue" },
-              { value: 15, name: "Node" },
-              { value: 10, name: "react" },
+              { value: 20, name: "React" },
+              { value: 20, name: "TS" },
               { value: 20, name: "Other" }
             ]
           }
@@ -91,6 +91,7 @@ export default {
   height: 500px;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .part-three-responsive {
@@ -98,6 +99,7 @@ export default {
   height: 500px;
   border: 10px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 </style>

@@ -49,7 +49,7 @@ export default {
         xAxis: {
           show: false,
           type: "category",
-          data: ["Github 仓库：\n38", "发表 blog数：\n32", "实战项目：\n26"],
+          data: ["Github 仓库：\n35", "发表 blog数：\n32", "实战项目：\n26"],
           axisLine: {
             lineStyle: {
               color: "#fff"
@@ -106,6 +106,7 @@ export default {
   height: 310px;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .part-four-responsive {
@@ -113,6 +114,7 @@ export default {
   height: 310px;
   border: 5px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 </style>

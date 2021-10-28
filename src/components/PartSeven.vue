@@ -33,13 +33,15 @@ export default {
   height: 310px;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .part-seven-responsive {
   width: 100%;
   border: 40px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
-  background: #18202d; 
+  opacity: 0.8;
+  background: #18202d;
 }
 .text-center {
   text-align: center;

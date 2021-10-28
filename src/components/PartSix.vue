@@ -31,12 +31,14 @@ export default {
   height: 310px;
   border: 20px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .part-six-responsive {
   width: 100%;
   border: 20px solid transparent;
   border-image: url("~@/./assets/img/border_image.png") 30 30 stretch;
+  opacity: 0.8;
   background: #18202d;
 }
 .text-center {

@@ -4,10 +4,10 @@
       <!-- <img class="hidden-md-only hidden-lg-only hidden-xl-only" :src="bannerXSSM" alt="banner 图">
       <img class="hidden-xs-only hidden-sm-only hidden-lg-only hidden-xl-only" :src="bannerMD" alt="banner 图">
       <img class="hidden-xs-only hidden-sm-only hidden-md-only" :src="bannerLGXL" alt="banner 图"> -->
-    </div> 
+    </div>
     <!-- <router-view name="PartOne"/> -->
     <!-- 第一行 -->
-    <el-row>
+    <el-row style="margin-top: 5px;">
       <el-col :xs="24" :sm="24" :md="6" :lg="6" :xl="6" class="part">
         <router-view name="PartOne"/>
       </el-col>
@@ -56,7 +56,7 @@ export default {
   color:#fff;
 }
 .banner {
-  background: url(https://sp-webfront.skypixel.com/skypixel/v2/public/website/assets/1535027674204-f6eca6369ec03e70262b58b0e25cda7b.jpg);
+  background: url('./assets/img/bg.jpg');
   background-size: cover;
   position: fixed;
   top: -20px;
@@ -75,6 +75,9 @@ export default {
   width: 100%;
   height: 80px;
 } */
+.margin_t {
+  margin-top: 10px;
+}
 .BMap_cpyCtrl, .BMap_noprint, .anchorBL {
   display: none !important;
 }
