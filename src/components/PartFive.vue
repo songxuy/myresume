@@ -5,8 +5,7 @@
       <a href="javascript:void(0)">成都乐动信息技术有限公司</a>
       <span class="text-small">| 2018/06- 2019/02</span>
     </p>
-    <p class="text-small">工作内容：通过vue框架编写前端页面调接口 通过express+node编写活动接口 编写一些静态H5页面 开发过其他的官网…</p>
-    <p class="text-small">项目成就：</p>
+    <p class="text-small">项目工作内容：</p>
     <p class="text-small">&emsp;1. 开发的app活动，在活动期间共计有30万的参与量</p>
     <p class="text-small">&emsp;2. 使用vue框架共计开发了10多个活动</p>
     <p class="text-small">&emsp;3. 维护公司官网以及开发一些静态H5页面</p>
@@ -14,10 +13,16 @@
       <a href="javascript:void(0)">广州多益网络有限公司</a>
       <span class="text-small">| 2019/05- 2020/03</span>
     </p>
-    <p class="text-small">工作内容：岗位为前端开发，负责公司中内部事务系统维护以及相关功能修改和增加</p>
-    <p class="text-small">项目成就：</p>
+    <p class="text-small">项目工作内容：</p>
     <p class="text-small">&emsp;1. 开发游戏社区移动端</p>
     <p class="text-small">&emsp;2. 内部管理系统内部的一些常规流程、审核、申报、考核等功能的维护和修改，以及一些新增功能的开发（在家办公效能考核等）</p>
+    <p style="margin-top:10px;">
+      <a href="javascript:void(0)">海南安迈云网络技术有限公司</a>
+      <span class="text-small">| 2020/06- 2022/01</span>
+    </p>
+    <p class="text-small">项目工作内容：</p>
+    <p class="text-small">&emsp;1. APP及h5功能需求的迭代</p>
+    <p class="text-small">&emsp;2. 使用Vue+TS开发并维护商品管理后台</p>
   </div>
 </template>
 

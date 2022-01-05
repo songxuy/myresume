@@ -1,7 +1,7 @@
 <template>
   <div :class="partSix">
     <h3 class="text-center">编程技能</h3>
-    <p class="font-small"><span class="font-bold">前端：</span>HTML5、CSS/SASS/LESS、JS/TS、Vue、React……</p>
+    <p class="font-small"><span class="font-bold">前端：</span>HTML5、CSS/SASS/LESS、JavaScript/TypeScript、Vue、React……</p>
     <!-- <p class="font-small"><span class="font-bold">后端：</span>NodeJS</p> -->
     <p class="font-small"><span class="font-bold">其他：</span>Canvas、Webpack</p>
   </div>
