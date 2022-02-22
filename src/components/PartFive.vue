@@ -18,7 +18,7 @@
     <p class="text-small">&emsp;2. 内部管理系统内部的一些常规流程、审核、申报、考核等功能的维护和修改，以及一些新增功能的开发（在家办公效能考核等）</p>
     <p style="margin-top:10px;">
       <a href="javascript:void(0)">海南安迈云网络技术有限公司</a>
-      <span class="text-small">| 2020/06- 2022/01</span>
+      <span class="text-small">| 2020/06- 2022/02</span>
     </p>
     <p class="text-small">项目工作内容：</p>
     <p class="text-small">&emsp;1. APP及h5功能需求的迭代</p>
