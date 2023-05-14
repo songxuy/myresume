@@ -1,10 +1,18 @@
+<!--
+ * @Author: songxuyuan 541046145@qq.com
+ * @Date: 2021-08-10 20:50:36
+ * @LastEditors: songxuyuan 541046145@qq.com
+ * @LastEditTime: 2023-05-15 00:03:12
+ * @FilePath: \myresume\src\components\PartOne.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
   <div class="part-one">
     <img class="part-one-image" :src="headImage" alt="头像" style="margin-bottom:10px;">
     <p>姓&emsp;&emsp;名：宋旭缘</p>
     <p>学&emsp;&emsp;历：本科</p>
     <p>工作年限：3 年</p>
-    <p>年&emsp;&emsp;龄：25</p>
+    <p>年&emsp;&emsp;龄：26</p>
     <p>联系电话：18096295110</p>
     <p>电子邮箱：541046145@qq.com</p>
     <p>博&emsp;&emsp;客：<a href="http://songxuy.github.io">blog</a></p>

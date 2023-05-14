@@ -4,7 +4,8 @@
 
 <script>
 // 引入基本模板
-let echarts = require("echarts/lib/echarts");
+//let echarts = require("echarts/lib/echarts");
+import echarts from "echarts";
 
 export default {
   name: "partFour",
